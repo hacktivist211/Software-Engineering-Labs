@@ -1,7 +1,7 @@
 # Lab 3 — Architectural Pattern Selection & Component Modelling
 
 **Problem Statement #42 — Internal Microservice Catalog & Health Portal**
-PES University · Dept. of CSE · Niraj · PES2UG24AM046 · 17 November 2026
+PES University · Dept. of CSE · Chennupati Niraj Kumar · PES2UG24AM046 · Sec 5-A · 17 November 2026
 
 Same scenario as Lab 1 and Lab 2.
 

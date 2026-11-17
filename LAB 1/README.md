@@ -1,7 +1,7 @@
 # Lab 1 — Requirements Engineering & UML Use-Case Modelling
 
 **Problem Statement #42 — Internal Microservice Catalog & Health Portal** (Developer Tools & IT Operations)
-PES University · Dept. of CSE · Niraj · PES2UG24AM046 · 17 November 2026
+PES University · Dept. of CSE · Chennupati Niraj Kumar · PES2UG24AM046 · Sec 5-A · 17 November 2026
 
 ## Deliverables
 

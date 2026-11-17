@@ -1,7 +1,7 @@
 # Lab 2 — Agile Backlog Creation & Sprint Simulation
 
 **Problem Statement #42 — Internal Microservice Catalog & Health Portal**
-PES University · Dept. of CSE · Niraj · PES2UG24AM046 · 17 November 2026
+PES University · Dept. of CSE · Chennupati Niraj Kumar · PES2UG24AM046 · Sec 5-A · 17 November 2026
 
 The backlog is derived from the Lab 1 requirements FR-001 to FR-005, NFR-001 and NFR-002: **4 epics, 11 user
 stories, 48 story points** on the Fibonacci scale, planned across **two one-week sprints of 24 points each**.
